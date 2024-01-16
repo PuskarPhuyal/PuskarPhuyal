@@ -1,10 +1,10 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Puskar Phuyal</h1>
-<h3 align="center">A passionate python developer from Nepal</h3>
+<h3 align="center">A passionate CS student from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?k=20&m=947663966&s=612x612&w=0&h=JUMJJkuDL6c9vReaJVL3Y4pDvJtqMzSVVYiJ6CSE-8A=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puskarphuyal&label=Profile%20views&color=0e75b6&style=flat" alt="puskarphuyal" /> </p>
 
-- 🌱 I’m currently learning **automation with python**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **automation**
 
