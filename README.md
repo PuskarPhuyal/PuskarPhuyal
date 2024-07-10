@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **automation**
 
-- 📫 How to reach me **puskarphuyal458@gmail.com**
 
 - ⚡ Fun fact **I lift weigths**
 
